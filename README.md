@@ -14,4 +14,7 @@ Header
 ![PUG](https://img.shields.io/badge/-PUG-4A192C?style=for-the-badge&logo=pug&logoColor=EFAF8C)
 ![GULP](https://img.shields.io/badge/-GULP-4A192C?style=for-the-badge&logo=gulp)
 
-Follow me
+### Follow me
+[![VK](https://img.shields.io/badge/-VK-4A192C?style=for-the-badge&logo=VK&logoColor=0077FF)](https://vk.com/id159672612)
+[![Instagram](https://img.shields.io/badge/-Instagram-4A192C?style=for-the-badge&logo=instagram&logoColor=FF00CC)](https://www.instagram.com/fdv08/)
+
