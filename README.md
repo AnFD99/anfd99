@@ -1,5 +1,3 @@
-Header
-
 # Hi, I'm Anastasia
 
 ## Front-end Developer
