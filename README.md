@@ -16,3 +16,4 @@
 [![VK](https://img.shields.io/badge/-VK-4A192C?style=for-the-badge&logo=VK&logoColor=0077FF)](https://vk.com/id159672612)
 [![Instagram](https://img.shields.io/badge/-Instagram-4A192C?style=for-the-badge&logo=instagram&logoColor=FF00CC)](https://www.instagram.com/fdv08/)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anfd99&hide=prs,issues,contribs&count_private=true&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
