@@ -2,7 +2,9 @@
 
 <h2 align="center">Front-end Developer</h2>
 
-<h3 align="center">Languages and Tools</h3>
+<h2 align="center">About me</h2>
+
+### Languages and Tools
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-4A192C?style=for-the-badge&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-4A192C?style=for-the-badge&logo=HTML5)
@@ -12,7 +14,7 @@
 ![PUG](https://img.shields.io/badge/-PUG-4A192C?style=for-the-badge&logo=pug&logoColor=EFAF8C)
 ![GULP](https://img.shields.io/badge/-GULP-4A192C?style=for-the-badge&logo=gulp)
 
-<h3 align="center">Follow me</h3>
+### Follow me
 
 [![VK](https://img.shields.io/badge/-VK-4A192C?style=for-the-badge&logo=VK&logoColor=0077FF)](https://vk.com/id159672612)
 [![Instagram](https://img.shields.io/badge/-Instagram-4A192C?style=for-the-badge&logo=instagram&logoColor=FF00CC)](https://www.instagram.com/fdv08/)
