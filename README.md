@@ -35,6 +35,4 @@
 
 [![codewars](https://www.codewars.com/users/AnFD99/badges/small)](https://www.codewars.com/users/AnFD99/badges/small)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anfd99&theme=dracula&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anfd99&layout=compact)](https://github.com/anfd99/github-readme-stats)
