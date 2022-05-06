@@ -4,6 +4,7 @@
 
 ## About me:
 <p>&#127759; &nbsp;I speak Russian (native), English (B1), Albanian (B2)</p>
+<p>&#128235; &nbsp;How to reach me: <a href="mailto:anfd.design@gmail.com">anfd.design@gmail.com</a></p>
 
 <br>
 
