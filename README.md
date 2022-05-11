@@ -8,7 +8,7 @@
 
 <br>
 
-## Skills
+## Languages and Tools
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -18,8 +18,6 @@
 ![Pug](https://img.shields.io/badge/Pug-FFF?style=for-the-badge&logo=pug&logoColor=A86454)
 ![Gulp](https://img.shields.io/badge/GULP-%23CF4647.svg?style=for-the-badge&logo=gulp&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
-
-<br>
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
@@ -34,6 +32,14 @@
 
 <br>
 
-[![codewars](https://www.codewars.com/users/AnFD99/badges/small)](https://www.codewars.com/users/AnFD99/badges/small)
+![codewars](https://www.codewars.com/users/AnFD99/badges/small)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anfd99&layout=compact)](https://github.com/anfd99/github-readme-stats)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anfd99&theme=github-dark-blue)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anfd99&layout=compact)
+
+
+<p align='center'>
+   <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=anfd99&theme=github-dark-blue">
+   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anfd99&layout=compact">
+</p>
