@@ -34,12 +34,16 @@
 
 ![codewars](https://www.codewars.com/users/AnFD99/badges/small)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anfd99&theme=github-dark-blue)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anfd99&theme=github-dark-blue)](https://git.io/streak-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anfd99&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anfd99&layout=compact)](https://github.com/anfd99/github-readme-stats)
 
 
 <p align='center'>
-   <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=anfd99&theme=github-dark-blue">
-   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anfd99&layout=compact">
+	<a href="https://git.io/streak-stats">
+   	<img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=anfd99&theme=github-dark-blue">
+	</a>
+	<a href="https://github.com/anfd99/github-readme-stats">
+   	<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anfd99&layout=compact">
+	</a>
 </p>
