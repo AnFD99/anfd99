@@ -3,13 +3,15 @@
 <h2 align="center">Front-end Developer</h2>
 
 ## About me:
-<p>&#127759; &nbsp;I speak Russian (native), English (B1), Albanian (B2)</p>
+<p>&#127759; &nbsp;I speak Russian (native), English (B2), Albanian (B2)</p>
 <p>&#128235; &nbsp;How to reach me: <a href="mailto:anfd.design@gmail.com">anfd.design@gmail.com</a></p>
 
 <br>
 
 ## Languages and Tools
 
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
