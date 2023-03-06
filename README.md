@@ -3,8 +3,8 @@
 <h2 align="center">Front-end Developer</h2>
 
 ## About me:
-<p>&#127759; &nbsp;I speak Russian (native), English (B2), Albanian (B2)</p>
-<p>&#128235; &nbsp;How to reach me: <a href="mailto:anfd.design@gmail.com">anfd.design@gmail.com</a></p>
+<p>&#127759; &nbsp;I speak Russian (native), English (B1), Albanian (C1)</p>
+<p>&#128235; &nbsp;How to reach me: <a href="mailto:anfd.dev@gmail.com">anfd.dev@gmail.com</a></p>
 
 <br>
 
@@ -19,7 +19,6 @@
 ![Less](https://img.shields.io/badge/less-2B4C80?style=for-the-badge&logo=less&logoColor=white)
 ![Pug](https://img.shields.io/badge/Pug-FFF?style=for-the-badge&logo=pug&logoColor=A86454)
 ![Gulp](https://img.shields.io/badge/GULP-%23CF4647.svg?style=for-the-badge&logo=gulp&logoColor=white)
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
@@ -34,9 +33,6 @@
 <br>
 
 <p align='center'>
-	<a href="https://git.io/streak-stats">
-   	<img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=anfd99&theme=github-dark-blue">
-	</a>
 	<a href="https://github.com/anfd99/github-readme-stats">
    	<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anfd99&layout=compact">
 	</a>
